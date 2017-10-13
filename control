@@ -1,0 +1,11 @@
+Package: com.creaturecoding.selectivecontrols
+Name: selectiveControls
+Depends: mobilesubstrate, applist, preferenceloader
+Version: 0.0.3
+Architecture: iphoneos-arm
+Depiction: https://creaturesurvive.github.io/depictions/com.creaturecoding.selectivecontrols/index.html
+Description: disable now playing controls for selected apps.
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
+Tag: role::developer
